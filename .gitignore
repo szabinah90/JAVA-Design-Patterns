@@ -1,0 +1,14 @@
+/out/
+/.idea/
+/.gradle/
+*.png
+*.svg
+*.txt
+*.odt
+*.odt#
+*.csv
+*.iml
+*.json
+
+gradlew
+gradlew.bat
